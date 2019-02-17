@@ -5,13 +5,19 @@ CS319 Term Project
 Group Number : 1B
 
 Group Members :
+
 Alara Yaman 21101164
+
 Berfu Deniz Kara 21201662
+
 Can Demirel 21401521 
+
 Muhammed Emin Aydın 21002035 
+
 Servan Tanaman 21201977
 
 Project Topic :
+
 In this project we will implement a digital version of an existing board game called "Risk" by using Java. Risk is a strategy game based on world domination. 3-6 Players are representing world leaders and they lead their armies to war against other players to conquer world while completing certain quests. The result of the wars between players are determined by throwing dices. 
 
 We will implement this board game by using Java programming language on  IntelIJ and Netbeans. We will use other programs for video and sound editing, UI Design and databases but these topics are not discussed yet.
